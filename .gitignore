@@ -42,3 +42,12 @@ next-env.d.ts
 
 
 fullstack_developer.md
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+tests-examples/
